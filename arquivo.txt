@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 texto do quarto commit
+=======
+texto do primeiro commit
+>>>>>>> parent of 4198435... segundo commit
